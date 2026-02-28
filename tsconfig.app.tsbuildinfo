@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/types.ts","./src/build/buildcontroller.ts","./src/data/levels.ts","./src/engine/camera.ts","./src/engine/game.ts","./src/render/render.ts","./src/sim/routing.ts","./src/sim/simcontroller.ts","./src/ui/ui.ts","./src/utils/geometry.ts","./src/utils/random.ts"],"version":"5.9.3"}
